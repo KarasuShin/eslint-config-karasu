@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-karasu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESLint shareable config",
   "main": "index.js",
   "files": [
