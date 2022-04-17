@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-karasu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint shareable config",
   "main": "index.js",
   "files": [
@@ -27,11 +27,13 @@
     "url": "https://github.com/KarasuShin/eslint-config-karasu/issues"
   },
   "homepage": "https://github.com/KarasuShin/eslint-config-karasu#readme",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0",
+    "eslint-plugin-react": "^7.29.4"
+  },
+  "devDependencies": {
     "eslint": "^8.13.0",
-    "eslint-plugin-react": "^7.29.4",
     "typescript": "^4.6.3"
   }
 }
