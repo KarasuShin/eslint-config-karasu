@@ -1,6 +1,6 @@
 # eslint-config-karasu
 
-[![npm](https://img.shields.io/npm/v/eslint-config-standard)](https://npmjs.com/package/eslint-config-karasu)
+[![npm](https://img.shields.io/npm/v/eslint-config-karasu?color=0f81c1)](https://npmjs.com/package/eslint-config-karasu)
 
 - Single quotes & semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
