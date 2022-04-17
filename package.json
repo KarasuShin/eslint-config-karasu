@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-karasu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESLint shareable config",
   "main": "index.js",
   "files": [
@@ -20,7 +20,8 @@
   ],
   "author": {
     "name": "Karasu Shin",
-    "email": "karasu.shin@outlook.com"
+    "email": "karasu.shin@outlook.com",
+    "url": "https://github.com/KarasuShin"
   },
   "license": "MIT",
   "bugs": {
