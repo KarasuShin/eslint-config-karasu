@@ -87,7 +87,7 @@ module.exports = {
             "single"
         ],
         "require-atomic-updates": "error",
-        "require-awaiter": "error",
+        "require-await": "error",
         "rest-spread-spacing": "error",
         "semi": [
             "error",
