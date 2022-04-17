@@ -39,8 +39,9 @@ module.exports = {
             "always"
         ],
         "indent": [
-            "error",
-            "tab"
+            "error", 2, {
+                "SwitchCase": 1
+            }
         ],
         "key-spacing": "error",
         "keyword-spacing": "error",
