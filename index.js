@@ -79,6 +79,10 @@ module.exports = {
         "no-useless-computed-key": "error",
         "no-useless-rename": "error",
         "no-var": "error",
+        "object-curly-spacing": [
+            "error",
+            "always"
+        ],
         "object-shorthand": "error",
         "prefer-arrow-callback": "error",
         "prefer-const": "error",
