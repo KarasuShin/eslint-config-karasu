@@ -23,18 +23,21 @@
     "email": "karasu.shin@outlook.com",
     "url": "https://github.com/KarasuShin"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KarasuShin/eslint-config-karasu/issues"
   },
   "homepage": "https://github.com/KarasuShin/eslint-config-karasu#readme",
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0",
     "eslint-plugin-react": "^7.29.4"
   },
   "devDependencies": {
-    "eslint": "^8.13.0",
-    "typescript": "^4.6.3"
-  }
+    "eslint": "^8.13.0"
+  },
+  "license": "MIT"
 }
