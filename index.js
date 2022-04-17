@@ -32,6 +32,7 @@ module.exports = {
         "block-scoped-var": "error",
         "comma-spacing": "error",
         "comma-style": "error",
+        "default-case": "error",
         "dot-notation": "error",
         "eqeqeq": [
             "error",
