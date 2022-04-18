@@ -101,6 +101,8 @@ module.exports = {
         "space-in-parens": "error",
         "space-infix-ops": "error",
         "space-unary-ops": "error",
-        "spaced-comment": "error"
+        "spaced-comment": "error",
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/explicit-module-boundary-types": "off",
     }
 }
